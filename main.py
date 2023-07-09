@@ -31,6 +31,8 @@ def main():
 
     set_flairs(subreddit, author_post_count)
 
+    print("It is done.")
+
     database_util.close_connection(connection)
 
 def validate_subreddit(reddit, subreddit_name):
