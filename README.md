@@ -11,4 +11,4 @@ To use this script, ensure that the account you intend to use is a moderator in 
 - Install the PRAW package ```pip install praw```.
 - Create a Reddit App (script) at https://www.reddit.com/prefs/apps/ and get your ```client_id``` and ```client_secret```.
 - Edit the ```config.ini``` file with your details.
-- Run the program python ```main.py```.
+- Run the program ```python main.py```.
